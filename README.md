@@ -1,5 +1,6 @@
 # search-api
 
+![CI Status](https://github.com/mothmane/search-api/workflows/Java%20CI%20with%20Maven/badge.svg)
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 Minimal [Spring Boot](http://projects.spring.io/spring-boot/) search api .
