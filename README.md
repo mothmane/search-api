@@ -11,7 +11,7 @@ For building and running the application you need:
 - [JDK 11](https://docs.oracle.com/en/java/javase/11/)
 - [Maven 3](https://maven.apache.org)
 
-## Building the applicationlocally
+## Building the application locally
 
 
 ```shell
